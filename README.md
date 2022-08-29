@@ -1,16 +1,5 @@
-# bmicalculator
+<h1 align="center">BMI Calculator APP</h1>
 
-A new Flutter application.
+<p>The app can help you to calculate your Body Mass Index based on your gender, weight and your age. </p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<center><img alt="An iphone screenshot" src="images/ScreenRec.gif" height="550" /></center>
